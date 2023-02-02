@@ -21,6 +21,7 @@ For the analysis of Outcomes Based on Launch Date for this pivot graph we filter
 The second graph helps us visualize the Plays outcomes in percentage ranges based on goal-amount ranges. This graph helps us understand the percentages of successful, failed, and canceled outcomes in percentages and dollar-amount ranges.
 The analysis of Outcomes Based on Goals we visualize the percentages of successful, failed and canceled plays based on the funding goal amount, we used COUNTIFS() AND SUM() functions to populate “Number Successful”, “Number Failed”, “Number Canceled”, “Total Projects”, “Percentage Successful”, “Percentage Failed”, “Percentage Canceled”.
 
+![Outcomes_vs_Goals](https://github.com/cbrito3/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ## Challenges and Difficulties Encountered
 
