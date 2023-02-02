@@ -9,8 +9,10 @@ The report will include the following:
   * Deliverable 2: Outcomes Based on Goals Chart
   * Deliverable 3: A written analysis of the results 
 
-## Analysis and Challenges
+## Outcomes Based on Launch Date Chart
 
-## Analysis of Outcomes Based on Launch Date
+Due to the client's interest in the theater data, the data was filtered by that category. The number of live outcomes were nominal and were filtered from the data set.
+
+## Outcomes Based on Goals Chart
 
 Due to the client's interest in the theater data, the data was filtered by that category. The number of live outcomes were nominal and were filtered from the data set.
