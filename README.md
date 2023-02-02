@@ -34,7 +34,7 @@ One of the challenges I encountered was to determine what field would go in each
       September through November, this leaves room for many interpretations.
 
 * What can you conclude about the Outcomes based on Goals? 
-  - The Outcomes based on Goals is that the percentage for successful keeps declining as the goal-amount keeps increasing until the 20% of 25000 to  
+  - The Outcomes based on Goals is that the percentage for successful keeps declining as the goal-amount keeps increasing until the 20% of 25000 to
     29999 where we can see an increase of the percentage and goal-amount, it reaches its maximum of 67% for the goal-amount of 35000 to 39999 through 
     40000 to 44999 and then it declines again very sharply to 0 at the goal-amount of 45000 to 49999 and then increases again. On the other hand, for
     the percentage failed we can see from the beginning that it increases as the percentage and goal-amount increase, and the percentage canceled is 
