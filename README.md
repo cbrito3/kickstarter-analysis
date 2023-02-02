@@ -11,11 +11,9 @@ The report will include the following:
 
 ## Outcomes Based on Launch Date Chart
 
-Due to the client's interest in the theater data, the data was filtered by that category. The number of live outcomes were nominal and were filtered from the data set.
+The data was filtered to revealed theater outcomes based on launch dates. The number of live outcomes were nominal and were filtered from the data set.
 
 ![Theater_Outcomes_vs_Launch](https://github.com/cbrito3/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
-
-
 
 ## Outcomes Based on Goals Chart
 
