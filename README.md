@@ -29,9 +29,9 @@ One of the challenges I encountered was to determine what field would go in each
 ## Results
 
  * What are two conclusions you can draw about the Outcomes based on Launch Date? 
-  - The first conclusion about the Outcomes based on Launch Date results is that the Theater was very successful in May, the lowest point it failed was     
-    in November, and lowest point it canceled was in July. The second point is that there seems to be missing information for canceled from September 
-    through November, this leaves room for many interpretations.
+   - The first conclusion about the Outcomes based on Launch Date results is that the Theater was very successful in May, the lowest point it failed  
+     was in November, and lowest point it canceled was in July. The second point is that there seems to be missing information for canceled from
+     September through November, this leaves room for many interpretations.
 
 * What can you conclude about the Outcomes based on Goals? 
  - The Outcomes based on Goals is that the percentage for successful keeps declining as the goal-amount keeps increasing until the 20% of 25000 to  
