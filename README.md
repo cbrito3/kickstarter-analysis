@@ -13,6 +13,8 @@ The report will include the following:
 
 Due to the client's interest in the theater data, the data was filtered by that category. The number of live outcomes were nominal and were filtered from the data set.
 
+https://github.com/cbrito3/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+
 ## Outcomes Based on Goals Chart
 
 Due to the client's interest in the theater data, the data was filtered by that category. The number of live outcomes were nominal and were filtered from the data set.
